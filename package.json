@@ -1,0 +1,16 @@
+{
+  "name": "jsdocs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "jsdoc": "^3.6.5"
+  },
+  "scripts": {
+    "doc": "jsdoc ./src"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
